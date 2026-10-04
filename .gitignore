@@ -1,0 +1,11 @@
+# Linux/editor temporary files
+*~
+*.swp
+*.swo
+
+# Do not commit personal/system secrets
+.env
+*.key
+*.pem
+
+# Evidence can be added intentionally under evidence/
